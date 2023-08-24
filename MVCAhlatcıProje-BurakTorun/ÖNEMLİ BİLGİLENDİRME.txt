@@ -1,0 +1,10 @@
+*****************PROJE ANA SAYFA URL*********************
+https://localhost:xxxxx/Home/HomePage
+*****************PROJE ADMİN PANEL GİRİŞİ*********************
+https://localhost:xxxxx/Login/Index
+Admin Eposta : burak1@admin.com
+Admin Şifre : 1234
+*****************PROJE YAZAR PANEL GİRİŞİ*********************
+https://localhost:xxxxx/Login/WriterLogin/
+Admin Eposta : admin@gmail.com
+Admin Şifre : 123
